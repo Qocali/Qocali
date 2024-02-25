@@ -1,6 +1,5 @@
 Connect with me: 
-<a href="https://www.linkedin.com/in/qocheli-babayev-141009218"><i class="fab fa-linkedin" ></i></a>
-
+[LinkedIn](https://www.linkedin.com/in/qocheli-babayev-141009218/)
 
 <h1 align="center">Hi 👋, I'm Qochali</h1>
 <h3 align="center">A passionate full stack developer from Azerbaijan</h3>
