@@ -1,5 +1,5 @@
-Connect with me: Connect with me: 
-<a href="https://www.linkedin.com/in/qocheli-babayev-141009218"><i class="fab fa-linkedin" alt="LinkedIn"></i></a>
+Connect with me: 
+<a href="https://www.linkedin.com/in/qocheli-babayev-141009218"><i class="fab fa-linkedin" ></i></a>
 
 
 <h1 align="center">Hi 👋, I'm Qochali</h1>
